@@ -52,6 +52,7 @@ EXECUTE TASK ORDERS_UPDATE_TASK;
 
 
 -- Alternatively, here are some manual queries to get at the same details
+---*/
 SHOW TASKS;
 
 -- Task execution history in the past day
